@@ -58,7 +58,7 @@
   .orders-list-items {
     width: 70%;
     display: grid;
-    grid-template-columns: repeat(auto-fill, 200px);
+    grid-template-columns: repeat(auto-fill, 210px);
     grid-gap: 20px 15px;
     justify-content: space-between;
   }
@@ -104,7 +104,7 @@
   
   .order-card-price {
     font-weight: bold;
-    font-size: 24px;
+    font-size: 22px;
     line-height: 33px;
     letter-spacing: -0.015em;
     color: var(--primary-color);
@@ -122,7 +122,7 @@
   }
   
   .order-card-description h3 {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 22px;
     letter-spacing: -0.015em;
     color: var(--secondary-color);
@@ -130,7 +130,7 @@
   
   .order-card-description p {
     font-weight: normal;
-    font-size: 14px;
+    font-size: 13px;
     line-height: 19px;
     letter-spacing: -0.015em;
   
