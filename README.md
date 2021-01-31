@@ -5,7 +5,7 @@
 
 https://sds2-zucheli.netlify.app
 
-DS Deivery é uma aplicação full stack web e mobile construída durante a 2ª edição da **Semana DevSuperior** (#sds2), evento organizado pela [DevSuperior](https://devsuperior.com).
+DS Delivery é uma aplicação full stack web e mobile construída durante a 2ª edição da **Semana DevSuperior** (#sds2), evento organizado pela [DevSuperior](https://devsuperior.com).
 
 A aplicação consiste em um sistema de registros de pedidos feito no site e entrega desses mesmos pedidos pelo app.
 
