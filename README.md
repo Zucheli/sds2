@@ -3,7 +3,8 @@
 
 # Sobre o Projeto
 
-https://sds2-zucheli.netlify.app
+- [Site](https://sds2-zucheli.netlify.app)
+- [APK](https://github.com/Zucheli/sds2/blob/main/apk/DS_Delivery.apk)
 
 DS Delivery é uma aplicação full stack web e mobile construída durante a 2ª edição da **Semana DevSuperior** (#sds2), evento organizado pela [DevSuperior](https://devsuperior.com).
 
