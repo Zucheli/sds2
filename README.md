@@ -1,7 +1,7 @@
 # DS Delivery
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Zucheli/sds2/blob/main/LICENSE) 
 
-## Sobre o Projeto / About Project
+## About Project
 
 - [Site](https://sds2-zucheli.netlify.app)
 - [APK](https://github.com/Zucheli/sds2/blob/main/apk/DS_Delivery.apk)
@@ -21,10 +21,10 @@ The application consists of a system of records of orders made on the website an
 ![Web 1](https://github.com/Zucheli/sds2/blob/main/assets/web-tela-inicial.png)
 ![Web 2](https://github.com/Zucheli/sds2/blob/main/assets/web-tela-pedido.png)
 
-## Modelo Conceitual / Conceptual Model
+## Conceptual Model
 ![Conceitual](https://github.com/Zucheli/sds2/blob/main/assets/conceitual.png)
 
-## Tecnologias utilizadas / Technologies used
+## Technologies used
 ### Back-End
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -43,7 +43,7 @@ The application consists of a system of records of orders made on the website an
 - Front-End Web: ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 - Banco de Dados: ![PostgresQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Como executar o projeto / How to run the project
+## How to run the project
 
 ### Back end
 Pré-requisitos: Java 11
@@ -76,5 +76,5 @@ npm install
 npm run start
 ```
 
-## Autor / Author
+## Author
 ![Linkedin](https://img.shields.io/badge/Mateus_Zucheli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
