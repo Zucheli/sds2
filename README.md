@@ -8,7 +8,7 @@
 ## About Project
 DS Delivery is a full stack web and mobile application built during the 2nd edition of **Semana DevSuperior** (# sds2), an event organized by [DevSuperior](https://devsuperior.com).
 
-The application consists of a system for registering food orders made on the website, where the user chooses the foods he wants, places his address and delivery is made through the app, where the delivery man can see his address and take the food to the customer . 
+The application consists of a system for registering food orders made on the website, where the user chooses the foods he wants, places his address and delivery is made through the app, where the delivery man can see his address and take the food to the customer. 
 
 ## Layout Mobile
 ![Mobile 1](https://github.com/Zucheli/sds2/blob/main/assets/mobile-tela-inicial.jpeg) ![Mobile 2](https://github.com/Zucheli/sds2/blob/main/assets/mobile-tela-pedidos.jpeg) ![Mobile 3](https://github.com/Zucheli/sds2/blob/main/assets/mobile-tela-entrega.jpeg)
