@@ -1,9 +1,8 @@
 # DS Delivery
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Zucheli/sds2/blob/main/LICENSE) 
 
-## Site and APK
-- [Site](https://sds2-zucheli.netlify.app)
-- [APK](https://github.com/Zucheli/sds2/blob/main/apk/DS_Delivery.apk)
+## Site
+[Site](https://sds2-zucheli.netlify.app)
 
 ## About Project
 DS Delivery is a full stack web and mobile application built during the 2nd edition of **Semana DevSuperior** (# sds2), an event organized by [DevSuperior](https://devsuperior.com).
